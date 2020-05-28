@@ -1,5 +1,3 @@
-# Public
-
 # Foursquare Points of Interests Maps
 
 Includes 414 maps
